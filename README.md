@@ -1,2 +1,2 @@
 # newrepos
-Just another repository
+This is just a test to see how github works,
